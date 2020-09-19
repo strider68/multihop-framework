@@ -1,4 +1,4 @@
-# multihop-framework for community detection
+# Multihop-framework for community detection
 
 ## Overview
   This repository provides a reference implementation of multihop framework as described in the paper:
